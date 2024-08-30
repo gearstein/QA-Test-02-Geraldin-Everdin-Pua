@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Go to H Club SCBD</name>
+   <tag></tag>
+   <elementGuidId>5e61dbd1-8d75-4292-b1d4-22ecfca09ef3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='root']/main/ul/li/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.view > label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-testid=&quot;todo-item-label&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>2f85e0af-781e-4cab-96ee-7b8568b1404c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>todo-item-label</value>
+      <webElementGuid>870975e4-772f-4b51-b7e0-f4d7c30f4331</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Go to H Club SCBD</value>
+      <webElementGuid>cb44f084-8cc8-43e8-9448-b82cfe83890a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;main&quot;]/ul[@class=&quot;todo-list&quot;]/li[@class=&quot;completed&quot;]/div[@class=&quot;view&quot;]/label[1]</value>
+      <webElementGuid>91d41c37-80d7-402c-be03-2f363856e2e9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='root']/main/ul/li/div/label</value>
+      <webElementGuid>ddf48b8d-c9b5-4239-af77-a9fcf838eba9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Toggle All Input'])[1]/following::label[1]</value>
+      <webElementGuid>ba334b6b-05c3-4202-8cbe-f34a18bba571</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New Todo Input'])[1]/following::label[2]</value>
+      <webElementGuid>58de3d7b-0e7c-403d-8b85-43a2aa3724f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All'])[1]/preceding::label[1]</value>
+      <webElementGuid>85bf14d7-9649-4f01-8ef4-2b8e74e96d6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active'])[1]/preceding::label[1]</value>
+      <webElementGuid>770e4a46-e8ab-4f10-86ab-8a335c23b208</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Go to H Club SCBD']/parent::*</value>
+      <webElementGuid>85278803-1998-4756-ba44-8304bfc19a02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/label</value>
+      <webElementGuid>6018e9ec-4304-4d69-829c-37bb51da1f7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Go to H Club SCBD' or . = 'Go to H Club SCBD')]</value>
+      <webElementGuid>75a0780c-e84e-4032-9e16-d90d2ef7491b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buy a bottle of Singleton'])[1]/preceding::label[1]</value>
+      <webElementGuid>29c2901d-d5eb-46b1-aa22-9c68d9e7df0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dance the night out!'])[1]/preceding::label[2]</value>
+      <webElementGuid>00f7927c-742a-4174-a1d9-78d1fff71dfb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Go to H Club SCBD”']/parent::*</value>
+      <webElementGuid>afb47f2e-9356-433b-8ce8-5014b9afcc26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Go to H Club SCBD”' or . = 'Go to H Club SCBD”')]</value>
+      <webElementGuid>3c59d9c6-8c5c-43c4-bc76-6aa4d7441662</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
